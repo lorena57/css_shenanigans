@@ -1,0 +1,18 @@
+h1 {
+  color: cornflowerblue;
+}
+
+p {
+  font-size: 16px;
+  font-family: monospace;
+}
+
+.smaller-image {
+  width: 300px;
+}
+
+/* An element's padding controls the amount of space 
+between the element's content and its border. */
+
+/* An element's margin controls the amount of space 
+between an element's border and surrounding elements. */
