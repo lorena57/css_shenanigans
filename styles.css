@@ -16,3 +16,29 @@ between the element's content and its border. */
 
 /* An element's margin controls the amount of space 
 between an element's border and surrounding elements. */
+
+.box {
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  text-align: center;
+}
+
+.yellow-box {
+  background-color: yellow;
+  padding: 10px;
+}
+
+.red-box {
+  background-color: crimson;
+  color: #fff;
+  margin: 40px 20px;
+  padding: 20px;
+}
+
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  margin: 50px;
+  padding: 100px;
+}
